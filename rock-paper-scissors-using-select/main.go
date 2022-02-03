@@ -1,6 +1,6 @@
 package main
 
-import "GoPlayground/rock-paper-scissors-using-select/game"
+import "goplayground/rock-paper-scissors-using-select/game"
 
 func main() {
 

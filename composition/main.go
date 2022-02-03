@@ -31,7 +31,6 @@ func (c Car) show() {
 }
 
 func main() {
-
 	suv := Vehicle{
 		NumberOfWheels:     4,
 		NumberOfPassengers: 6,

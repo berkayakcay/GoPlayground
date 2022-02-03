@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoPlayground/rock-paper-scissors-web/rps"
 	"encoding/json"
+	"goplayground/rock-paper-scissors-web/rps"
 	"html/template"
 	"log"
 	"net/http"

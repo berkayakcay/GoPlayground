@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoPlayground/scope/packageone"
 	"fmt"
+	"goplayground/scope/packageone"
 )
 
 var myVariable = "my variable"
